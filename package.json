@@ -1,0 +1,9 @@
+{
+  "name": "smartstudybot",
+  "version": "1.0.0",
+  "description": "A Telegram study assistant bot",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
